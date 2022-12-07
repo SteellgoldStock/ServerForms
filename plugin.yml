@@ -1,0 +1,6 @@
+name: ServerForms
+main: steellgold\serverforms\SF
+version: 1.0.0
+author: Steellgold
+api: [4.0.0]
+description: List server with forms
