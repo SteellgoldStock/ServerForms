@@ -1,0 +1,21 @@
+messages:
+  join: "§cWelcome §f{player}§c, choose a server and type a password if necessary to connect to that server."
+
+servers:
+  0:
+    title: "Faction"
+    description: "This is a faction server"
+    ip: 127.0.0.1
+    port: 19132
+    password: "1234"
+    icon:
+      type: "path"
+      data: "textures/items/apple"
+  1:
+    title: "Survival"
+    description: "This is a survival server"
+    ip: 127.0.0.1
+    port: 19132
+    icon:
+      type: "url"
+      data: "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
